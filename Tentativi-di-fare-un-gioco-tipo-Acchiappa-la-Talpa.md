@@ -7,3 +7,5 @@ Vi allego un effetto visuale del gioco in un immagine![](E:\wad\ANGIONI panorami
 1.  posso avviare il gioco da un pulsante start o cliccando su quadrato più piccolo
 2. i movimenti del quadratino piccolo sono casuali, ma cmq all'interno del quadrato grande
 3. i colori dei quadrati li ho scelti io con il file CSS 
+
+4.# ho cambiato i colori ai quadrati, rosa il grande e viola il piccolo  
